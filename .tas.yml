@@ -12,4 +12,4 @@ preMerge:
 preRun: 
   command:
     - npm i
-    #testP
+#testPre
