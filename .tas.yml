@@ -12,3 +12,5 @@ preMerge:
 preRun: 
   command:
     - npm i
+    
+    #test
