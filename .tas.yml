@@ -13,4 +13,4 @@ preRun:
   command:
     - npm i
     
-    #test
+    #tests
